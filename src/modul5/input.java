@@ -18,7 +18,7 @@ public final class input{
      public float hasil;
     proses pro;
     public input(){
-     pro = new proses();//inisialisasi obkject ope dari class operasi
+     pro = new proses();//inisialisasi obkject ope dari class proses
      inputdata(); //memanggil method input data
     }
     public void inputdata(){
